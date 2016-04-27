@@ -76,36 +76,36 @@ Now, let's exit Build mode.</Message>
 Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
 
 Browse the contracts now and accept one you think sounds fair.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">These buttons allow you to pick the colors of your founder and his/her clothes.</Message>
-	<Message id="CUSTOMIZATION6">These buttons will cycle through different hair styles, faces, pants and jackets for your founder.</Message>
-	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+	<Message id="CUSTOMIZATION1">Bienvenue sur l'écran de customisation. CLiquez sur "Continuer" pour regardez ce tutoriel ou "Annuler" pour le fermer.</Message>
+	<Message id="CUSTOMIZATION2">Commencez par choisir un nom pour votre entreprise.</Message>
+	<Message id="CUSTOMIZATION3">Puis choisissez un nom pour le fondateur de votre entreprise.</Message>
+	<Message id="CUSTOMIZATION4">Et son genre.</Message>
+	<Message id="CUSTOMIZATION5">Ces boutons vous permettent de choisir les différentes couleurs de peau, vêtements, etc.. de votre fondateur.</Message>
+	<Message id="CUSTOMIZATION6">Ces boutons vous permettent de choisir les différents styles de chevaux, vêtements, visages, etc.. de votre fondateur.</Message>
+	<Message id="CUSTOMIZATION7">Ici vous pourrez choisir les différents traits de personnalité de votre fondateur.
 
-You can choose two traits, which will affect your founder's behavior(leadership, ability to learn and laziness) and inter-office relationships.</Message>
-	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+Vous pouvez choisir deux traits, ceci auront une incidence sur le comportement de votre fondateur (leadership, capacité à apprendre et la paresse) et les relations inter-bureaux.</Message>
+	<Message id="CUSTOMIZATION8">Ici, vous pouvez choisir les compétences de votre fondateur.
 
-Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+Les spécialisations sont limités par la compétence, donc si votre fondateur à une faible compétence de designer, il/elle sera également peu qualifiés dans la spécialisation de designer que vous choisirez.
 
-You can further educate and train your founder to gain skill and specializations in the game.</Message>
-	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
-	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
+Vous pouvez en outre éduquer et former votre fondateur pour acquérir des compétences et spécialisations une fois en jeu.</Message>
+	<Message id="CUSTOMIZATION9">Vous avez dès à présent terminé la personnalisation de votre fondateur. Commençons à choisir les règles de jeu !</Message>
+	<Message id="CUSTOMIZATION10">Vous pouvez activer tous le smods que vous avez ici, qui sera lié à votre sauvegarde pour toujours.
 
-You can share your game with others, without them having to install the mods.
+Vous pourrez partager votre sauvegarde avec les autres, sans avoir installer les mods.
 
-Some mods add scenarios, so you should enable the ones you want before picking a scenario.</Message>
-	<Message id="CUSTOMIZATION11">Now pick a scenario. The scenario will control the starting money and starting date you can choose between, and goals and whether to simulate the competition, use a scripted competition or both.</Message>
-	<Message id="CUSTOMIZATION12">You can change the environment here.
+Certains mods ajoutent des scénarios de jeu, vous devrez donc les activer avant de choisir un scénario.</Message>
+	<Message id="CUSTOMIZATION11">Maintenant choisissez un scénario. Le scénario va contrôler l'année et l'argent de départ, les objectifs et la simulation, vous pouvez choisir entre les deux.</Message>
+	<Message id="CUSTOMIZATION12">Vous pouvez modifier l'environnement ici.
 
-The forest is the default environment, the tundra is cold all year, the desert is hot all year and the city has skyscrapers and a pre-built road network with parking lots.</Message>
-	<Message id="CUSTOMIZATION13">Difficulty can be changed at any point in the game by going to the options menu. Difficutly controls employee wage and effectiveness, and the simulated competitors' competence.</Message>
-	<Message id="CUSTOMIZATION14">Normally 1 day is equal to 1 month in Software Inc. This keeps the game at a steady pace so it doesn't get boring.
+La forêt est l'environnement par défaut, la toundra est un environnement ou il fait froid toute l'année, le désert est quand à lui chaud toute l'année et la ville dispose de gratte-ciel et un reseau routier pré-construit avec beaucoup de stationnement.</Message>
+	<Message id="CUSTOMIZATION13">La difficulté peut-être modifié à tout moment dans le jeu en allant dans le menu des options. La diffculté contrôle les salaires et l'efficacité des employés, ainsi que la compétences des entreprises concurrentes.</Message>
+	<Message id="CUSTOMIZATION14">Normalement, un jour est égale à 1 mois dans Software Inc. Cela permet de maintenir le jeu à un rythme soutenu de sorte à ce qu'il ne soit pas ennuyeux.
 
-If you feel the game is going too fast or you want a couple of buffer days to earn money between having to pay salaries and bills, you can increase the amount of days there is in a month.
+Si vous sentez que le jeu va trop vite, ou si vous voulez plusieurs jours pour gagner de l'argent pour payer les salaires et les factures, vous pouvez augmenter le nombre de jours à 8 par mois.
 
-Note that everything in the game will move relatively slower to match the setting you pick and you can't change it later on.</Message>
+Notez que tout dans le jeu se déplacera relativement plus ou moins vite pour correspondre au paramètre que vous choisirez et vous ne pourrez plus le changer par la suite.</Message>
 	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
 	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
 
@@ -347,19 +347,19 @@ Vous pouvez tourner la caméra en mainenant appuyé le bouton de la molette de v
 Vous pouvez zoomer en avant et en arrière en utilisant la roulette de votre souris ou les touches plus et moins sur votre clavier.</Message>
 	<Message id="WELCOME3">Les touches peuvent être configurées dans le menu option, que vous pouvez ouvrir en appuyant sur Échap ou en appuyant sur le bouton en bas à droite et cliquer sur « Options ».</Message>
 	<Message id="WELCOME4">Au dessus vous pouvez trouver votre solde bancaire actuel.</Message>
-	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count.
+	<Message id="WELCOME5">Là-haut, les étoiles montrent votre réputation et le nombre est votre nombre actuel de fan.
 
-You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
-	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
+Vous pouvez survolez la barre pour voir votre reconnaissance du marché dans chaque marché dans lequel vous avez vendu un logiciel. Pour vendre plus de produits dans chaque catégorie de logiciels, vous devez gagner la reconnaissance du marché en faisant de bons produits et de leur commercialisation</Message>
+	<Message id="WELCOME6">Ici pous pouvez voir combien d'argent vous gagner ou perdez dans votre entreprise.
 
-Since this is your first day, nothing is showing. If you click here, a window with an overview of your bank flow will open.</Message>
-	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
-	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
+Comme c'est votre premier jour, rien n'est montrer. Si vous cliquez ici, une fenêtre avec une vue d'ensemble de votre flux d'argent s'ouvrira.</Message>
+	<Message id="WELCOME7">Vous pouvez contrôler la vitesse du temps en utilisant ces boutons ou « 0,1,2,3 » de votre clavier, ils peuvent être modifier dans les options.</Message>
+	<Message id="WELCOME8">Les notifications importantes apparaissent dans la partie supérieur gauche de votre écran. Vous pouvez faire glisser la barre de notification vers le bas pour voir les anciennes notifications.
 
-Some notifications can be clicked to move the camera to the subject. You can right click notifications to delete them.</Message>
-	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
-	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
+Certains modifications peuvent-être cliqués pour déplacer la caméra sur le sujet. Vous pouvez faire un clic droit sur les notifications pour les supprimer.</Message>
+	<Message id="WELCOME9">Tous vos contrôles et fenêtres sont ici, dans le coin inférieur gauche..</Message>
+	<Message id="WELCOME10">Rappelez-vous : Vous pouvez redémarrer tout les tutoriels à partir du menu d'options.
 
-When you are ready, begin building your office by entering "Build mode".</Message>
+Lorsque vous êtes prêt, commencer à contrsuire votre premier bureau en entrant dans le « Mode Construction ».</Message>
 </Tutorial>
 
