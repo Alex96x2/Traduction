@@ -19,22 +19,22 @@ Le tutoriel continuera une fois que la phase bêta commencera</Message>
 Appuyez sur "Terminer" quand vous êtes prêts, mais notez que les bugs vous couteront du temps et ajouteront du travail pendant la phase de "Support" du produit que vous venez de sortir.
 
 Appuyer sur "Fin" pour finir le tutoriel.</Message>
-	<Message id="BUILD MODE1">Débuter en entrant dans le mode Construction" en cliquand sur le bouton de Construction.</Message>
+	<Message id="BUILD MODE1">Débuter en entrant dans le mode "Construction" en cliquant sur le bouton de "Mode Construction".</Message>
 	<Message id="BUILD MODE2">Le jeu est toujours en pause dans le mode "Construction".
 
-Commençons en construisant une pièce, cliquer sur le bouton "Construire une pièce rectangulaire" dans la section 'Construire".
+Commençons en construisant une pièce, cliquer sur "Mur" dans la section "Construire".
 
-You can build rooms in any shape or split rooms into two by clicking "Construct room" to the left of the button.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using this panel. This might come in handy if you want to build tables along a diagonal wall for example.
+Vous pouvez construire des pièces de toute forme ou faire une pièce divisée en deux en cliquant sur "Construire une pièce".</Message>
+	<Message id="BUILD MODE3">Maintenant cliquez quelque part dans la grille, puis cliquez sur un autre endroit pour terminer votre pièce. Gardez un oeil sur le coût tout en déplaçant votre curseur.</Message>
+	<Message id="BUILD MODE4">Vous avez sans doute remarqué que votre grille était plutôt limité lorsque vous avez construit votre pièce. Vous pouvez modifié cette grille ainsi que la construction des angles en utilisant les boutons ci-contre. Cela peut-être utile si vous voulez construire un mur en diagonale sur plusieurs angles.
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+Cliquez sur Continuer lorsque vous êtes prêt.</Message>
+	<Message id="BUILD MODE5">Vous pouvez monter ou descendre d'un étage avec les touches "Q" et "E" (touches par défaut).
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+A présent nous allons ajouter des fenêtres ainsi que des portes. Vous pouvez soit sélectionner une catégorie ou recherchez "fenêtre" ou "porte" dans le panneau de construction.</Message>
+	<Message id="BUILD MODE6">Vous avez remarquez comme la pièce c'est éclairci lorsque vous avez ajouté des fenêtres, assurez-vous d'en ajouter suffisament pour que vos employés puissent bien voir.
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
+Vous pouvez inspecter les conditions d'éclairage, d'environnement, de température et de bruit en cliquant pour sélectionner la pièce.</Message>
 	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
 
 Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
