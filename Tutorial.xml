@@ -35,18 +35,18 @@ A présent nous allons ajouter des fenêtres ainsi que des portes. Vous pouvez s
 	<Message id="BUILD MODE6">Vous avez remarquez comme la pièce c'est éclairci lorsque vous avez ajouté des fenêtres, assurez-vous d'en ajouter suffisament pour que vos employés puissent bien voir.
 
 Vous pouvez inspecter les conditions d'éclairage, d'environnement, de température et de bruit en cliquant pour sélectionner la pièce.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+	<Message id="BUILD MODE7">Vous pouvez également changer la couleur de vos salles et de vos meubles.
 
-Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+Essayez de changer la couleur de votre salle par un clic droit et cliquez sur le bouton « Changer la couleur ».</Message>
+	<Message id="BUILD MODE8">Vous pouvez changer la couleur de plusieurs élements à la fois en sélectionnant les objets avant de cliquez sur le bouton pour changer les couleurs. La fenêtre pour les couleurs proposera des couleurs qui sont actuellements en cours d'utilisation.
 
-If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+Si vous aimez le style que vous avez donné à une salle ou un meuble, vous pouvez le configurer pour le mettre par défaut dans le menu contextuel du clic droit.
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+Cliquez sur « Appliquer » lorsque vous êtes prêt ou fermer la fenêtre si vous voulez annuler vos modifications.</Message>
+	<Message id="BUILD MODE9">Mettons quelques meubles dans votre nouvelle salle.
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+Construisez une nouvelle table en cliquant sur le bouton « Équipement » ou cliquez sur la barre de recherche en écrivant « Table ».</Message>
+	<Message id="BUILD MODE10">Maintenant ajoutez une chaise. Les chaises ne peuvent être ajoutés qu'aux tables.
 
 Note that furniture with multiple tiers, like chairs, can be upgraded after they have been placed. You can use the right click context menu to easily upgrade a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
 	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
@@ -70,12 +70,12 @@ Try selecting at least 2 things in the game.</Message>
 
 Now, let's exit Build mode.</Message>
 	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+	<Message id="CONTRACTS1">Commencez par ouvrir la fenêtre des contrats de travail.</Message>
+	<Message id="CONTRACTS2">Voici une liste des contrats disponibles. De nouveaux contrats seront ajoutés quand vous aurez compléter les plus anciens.
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
+Les contrats ont un acompte, que vous reçevrez en acceptant le travail, le reste du paiement lorsque vous aurez terminé le contrat. Il y aura des pénalités si vous ne finissez pas le contrat ou si vous n'avez pas fixer les bugs. Ne pas respectez la qualité demandez ou le temps imparti se traduira par une baisse du paiement final.
 
-Browse the contracts now and accept one you think sounds fair.</Message>
+Parcourez les contrats et accepter celui que vous semblez être en mesure de finir.</Message>
 	<Message id="CUSTOMIZATION1">Bienvenue sur l'écran de customisation. CLiquez sur "Continuer" pour regardez ce tutoriel ou "Annuler" pour le fermer.</Message>
 	<Message id="CUSTOMIZATION2">Commencez par choisir un nom pour votre entreprise.</Message>
 	<Message id="CUSTOMIZATION3">Puis choisissez un nom pour le fondateur de votre entreprise.</Message>
@@ -360,6 +360,6 @@ Certains modifications peuvent-être cliqués pour déplacer la caméra sur le s
 	<Message id="WELCOME9">Tous vos contrôles et fenêtres sont ici, dans le coin inférieur gauche..</Message>
 	<Message id="WELCOME10">Rappelez-vous : Vous pouvez redémarrer tout les tutoriels à partir du menu d'options.
 
-Lorsque vous êtes prêt, commencer à contrsuire votre premier bureau en entrant dans le « Mode Construction ».</Message>
+Lorsque vous êtes prêt, commencer à construire votre premier bureau en entrant dans le « Mode Construction ».</Message>
 </Tutorial>
 
